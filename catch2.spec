@@ -4,7 +4,7 @@
 #
 Name     : catch2
 Version  : 1.12.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/catchorg/Catch2/archive/v1.12.0.tar.gz
 Source0  : https://github.com/catchorg/Catch2/archive/v1.12.0.tar.gz
 Summary  : No detailed summary available
